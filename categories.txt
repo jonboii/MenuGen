@@ -20,7 +20,7 @@
     'chicken salad wraps',
     'burgers'
 ],
-'stovetop' : [
+'stovetop':[
     'chicken tiki malsa',
     'broccoli chicken alfredo',
     'pierogies',
@@ -34,13 +34,13 @@
     'salmon dish'
 ],
 
-'airfrier' : [
+'airfrier':[
     'chickpea fritters',
     'tofu nuggies',
     'fried califlower',
 ],
 
-'crock' : [
+'crock':[
     'apricot chicken',
     'butter tofu',
 ],
