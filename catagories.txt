@@ -1,0 +1,47 @@
+soup = [
+    "corn chowder",
+    "butternut squash",
+    "hot n sour",
+    "french onion",
+    "tomoato bisque grilled cheese",
+    "cheddar broccoli",
+    "chili",
+    "sweet potatoe turkey chili",
+    "italian wedding",
+    "carrot ginger",
+]
+sandwich = [
+    "gyros",
+    "sweet potatoe blackbean",
+    "shrimp tacos",
+    "pulled chicken sandwich",
+    "asian lettuce wraps",
+    "crunchwraps",
+    "chicken salad wraps",
+    "burgers"
+]
+curry = [
+    "chicken tiki malsa"
+]
+
+chicken fijata bowls
+turkey smash burgers
+lasagna
+butter tofu
+veggie pot pie
+empanadas
+buddha bowls
+fried califlower
+tofu nuggies
+pizza
+chicken parm
+baked ziti
+apricot chicken
+rice pilaf and chicken
+chickpea fritters
+breakfast
+pineapple chicken stir fry
+pad thai
+pierogies
+enchiladas
+salmon dish
