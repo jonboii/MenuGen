@@ -1,0 +1,56 @@
+{'soup':[
+    'corn-chowder',
+    'butternut-squash',
+    'hot n sour',
+    'french onion',
+    'tomoato bisque grilled cheese',
+    'cheddar broccoli',
+    'chili',
+    'sweet potatoe turkey chili',
+    'italian wedding',
+    'carrot ginger',
+],
+'sandwich':[
+    'gyros',
+    'sweet potatoe blackbean',
+    'shrimp tacos',
+    'pulled chicken sandwich',
+    'asian lettuce wraps',
+    'crunchwraps',
+    'chicken salad wraps',
+    'burgers'
+],
+'stovetop':[
+    'chicken tiki malsa',
+    'broccoli chicken alfredo',
+    'pierogies',
+    'pad thai',
+    'pineapple chicken stir fry',
+    'rice pilaf and chicken',
+    'turkey smash burgers',
+    'chicken fijata bowls',
+    'buddha bowls',
+    'breakfast',
+    'salmon dish'
+],
+
+'airfrier':[
+    'chickpea fritters',
+    'tofu nuggies',
+    'fried califlower',
+],
+
+'crock':[
+    'apricot chicken',
+    'butter tofu',
+],
+
+'oven':[
+    'lasagna',
+    'veggie pot pie',
+    'pizza',
+    'enchiladas',
+    'baked ziti',
+    'chicken parm',
+    'empanadas',
+]}
