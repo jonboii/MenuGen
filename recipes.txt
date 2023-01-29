@@ -1,9 +1,193 @@
-{'corn-chowder':[
-    'corn',
-    'condensed milk',
+{'gyros':[
+    '2lb chicken',
+    '3 garlic clove',
+    'lemon juice',
+    '3tbsp greek yogurt',
+    '2 cucumbers',
+    '3 tomatoes',
+    '1/2 onion',
+    'peta bread'
 ]}
 
-gyros=[
-    'chicken',
-    
-]
+{'butter tofu':[
+    'lemon juice',
+    'tofu',
+    '2 yellow onion',
+    '3 tblsp ginger',
+    '4 garlic clove',
+    '28 oz whole peeled tomatoes',
+    '1 sinnamon stick',
+    '1.5 heavy cream or full-fat coconut milk',
+    'naan',
+]}
+
+{'coconut ginger carrot':[
+    '1 white onion',
+    '3 garlic clove',
+    'ginger',
+    '7 large carrots',
+    '3 cups veggie stock',
+    '1 cup full-fat coconut milk',
+]}
+
+{'veggie pot pie':[
+    '1 cup carrot',
+    '1 potato',
+    '1 cup frozen peas',
+    '.33 cup onion',
+    '2 garlic clove',
+    '2 pie crusts',
+]}
+
+{'empanada':[
+    'stick of butter',
+    '.5 cup onion',
+    '.5 cup onion',
+    '2 bell pepper',
+    '4 garlic clove',
+    '1 lb chicken',
+    'tomato paste',
+]}
+
+{'fried cauliflower':[
+    '.5 cup cornstarch',
+    'cauliflower',
+    'ginger',
+    'green onion',
+]}
+
+{'tofu nuggies':[
+    'tofu',
+]}
+
+{'pizza':[
+    'tomato sauce',
+    'peparoni',
+    'olives',
+    'cheese',
+]}
+
+{'italian wedding':[
+    'meatballs',
+    '3 med carrots',
+    'onion',
+    'celery',
+    '5 garlic clove',
+    '10 cups veggie broth',
+    '.75 cup acini de pepe pasta',
+    '2 cup kale',
+]}
+
+{'apricot chicken':[
+    '1.5 cup apricot preserve',
+    '1 cup russian dressing',
+    '1 envelope dry onion soup',
+    '2 lb chicken',
+]}
+
+{'chili':[
+    '2 lb ground meat',
+    'onion',
+    '3 garlic clove',
+    '15 oz black beans',
+    '30 oz kidney bean',
+    '30 oz diced tomatoes',
+    '30 oz tomato sauce',
+]}
+
+{'pulled chicken':[
+    '8 oz crushed pineapple',
+    'tomato paste',
+    'ginger',
+    '2 lb chicken',
+    'buns',
+]}
+
+{'coleslaw':[
+    '3 cup green cabbage',
+    '2 cup purple cabbage',
+    '1 cup carrot',
+    '.5 cup mayo',
+]}
+
+{'cheddar broccoli':[
+    '.5 cup onion',
+    '2 cup milk',
+    '2 cup chicken stock',
+    '1.5 cup broccoli',
+    '1 cup carrot',
+    '2.5 cup cheddar',
+]}
+
+{'chickpea fritters':[
+    '15 oz chickpeas',
+    '.25 cup cheese',
+]}
+
+{'tomato bisque':[
+    'onion',
+    '1 carrot',
+    '2 garlic clove',
+    '28 oz whole tomatoe',
+    '.25 heavy cream',
+]}
+
+{'french onion':[
+    '4 sweet onion',
+    '6 cup mushroom broth',
+    '.33 cup dry white wine',
+    'french baguett',
+    '14 oz ginger cheese or swiss cheese or any cheese really',
+]}
+
+{'chicken stir fry':[
+    'onion',
+    '2 bell pepper',
+    '20 oz pineapple chunks',
+    '2 lb chicken',
+]}
+
+{'pad thai':[
+    'shrimp',
+    'lime',
+    'tofu',
+    'pad thai noodles',
+]}
+
+{'pierogies':[
+    '3 onion',
+    '.5 cup cottage cheese or 4 oz sour cream',
+    '.5 lb potatoe',
+]}
+
+{'hot and sour':[
+    '8 cup chicken broth',
+    '8 oz shitake mushroom',
+    '8 oz baboo shoots',
+    'tofu',
+]}
+
+{'butternut squash soup':[
+    '1 butternut squash',
+    '.5 cup shallot',
+    '4 garlic clove',
+    '24 or 32 oz veggie broth',
+]}
+
+{'corn chowder':[
+    '24 oz red portato',
+    '16 oz frozen corn',
+    '6 cup chicken stock',
+    '.25 cup heavy cream',
+]}
+
+{'chicken marsala':[
+    '1 or 2 lb chicken',
+    '16 oz mushroom',
+    '1 yellow onion',
+    '2 garlic clove',
+    '.25 cup dry marsala wine or dry white wine',
+    '.25 cup chicken broth',
+    '2 tbsp heavy cream',
+    'zucchini',
+]}
